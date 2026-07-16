@@ -33,7 +33,7 @@ body {
   border-radius: 1rem;
   box-shadow: 0 10px 30px var(--shadow-color);
   text-align: center;
-  max-width: 400px;
+  max-width: 370px;
   width: 80%;
   border: 1px solid var(--border-color);
 }
